@@ -1,0 +1,12 @@
+html{
+  background-color:black;
+}
+
+.money{  
+  position:absolute;
+  color: red;
+}
+
+.btnShop{
+	position:absolute;
+}
